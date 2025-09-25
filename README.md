@@ -6,7 +6,7 @@
 
 - ✅ **Cấu trúc dữ liệu & giải thuật**
 - 🔐 **An toàn và bảo mật thông tin**
-- 💻 **Kỹ thuật lập trình căn bản và nâng cao**
+- 💻 **Kỹ thuật lập trình**
 
 Hệ thống phù hợp với sinh viên ngành CNTT và các bạn đang ôn luyện thuật toán.
 
