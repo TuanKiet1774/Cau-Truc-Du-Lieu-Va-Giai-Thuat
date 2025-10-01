@@ -14,7 +14,7 @@ Hệ thống phù hợp với sinh viên ngành CNTT và các bạn đang ôn lu
 
 ## 🔗 Truy cập nền tảng
 
-🌐 **Link NTU_Coder:** [https://64cntt1.ntucoder.net/](https://64cntt1.ntucoder.net/)
+🌐 **Link NTU_Coder:** [NTU Coder](https://64cntt1.ntucoder.net/)
 
 > 📌 **Chú ý:** Đăng nhập bằng tài khoản sinh viên.
 
